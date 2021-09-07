@@ -49,7 +49,6 @@ export default {
       commentValue: "",
       replyComment: "",
       commentLists: [],
-      subCommentLists: [],
       reply: false,
       index: null,
     };
